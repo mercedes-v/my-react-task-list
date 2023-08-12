@@ -1,0 +1,12 @@
+.head-container {
+    background-color: var(--red);
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .head-title {
+    font-size: 30px;
+    text-decoration: underline;
+    color: var(--green);
+  }
